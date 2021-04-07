@@ -1,4 +1,4 @@
-connection: "bigquery"
+connection: "google_bigquery"
 
 # include all views in this project
 include: "*.view"
